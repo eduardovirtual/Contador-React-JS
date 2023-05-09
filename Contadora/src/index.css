@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+  background-color: black;
+}
+
+h2{
+  font-size: 36px;
+  color: white;
+  margin-top: 170px;
+}
+
+.botao {
+  margin-right: 10px;
+  margin-top: 200px;
+  padding: 15px;
+  border: none;
+  border-radius: 5px;
+  background-color: yellow;
+  cursor: pointer;
+}
+
+h1 {
+  color: white;
+  margin-top: 40px;
+}
